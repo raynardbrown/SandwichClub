@@ -13,6 +13,18 @@
     <!-- Error messages-->
     <string name="detail_error_message">Sandwich data not available</string>
 
+    <string name="tools_text_short_sample_string">Lorem ipsum</string>
+
+    <string name="tools_text_long_sample_string">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean facilisis
+            orci quis tortor venenatis maximus. Curabitur a vulputate ante. Quisque eleifend urna
+            sed mi pretium ornare. Curabitur accumsan consequat sem, eget posuere massa faucibus in.
+            Etiam vitae tristique nunc. Ut ut augue semper, molestie sapien accumsan, cursus erat.
+            Morbi aliquet orci eget eros dignissim, non pretium turpis lobortis. Vivamus euismod
+            dolor nec tempus fringilla. Aenean euismod bibendum tempus. Mauris pharetra sollicitudin
+            augue ac eleifend. Aenean sit amet est odio. Pellentesque euismod urna felis, in molestie
+            libero euismod id. Cras diam turpis, maximus sed diam in, lacinia varius nisi. Curabitur
+            bibendum eget leo at volutpat. Quisque non sapien euismod nisl luctus cursus.</string>
+
     <string-array name="sandwich_names">
         <item>Ham and cheese sandwich</item>
         <item>Bosna</item>
@@ -110,7 +122,7 @@
             (generally with accompaniments), or as a sandwich or wrap. Shawarma is usually eaten
             with tabbouleh, fattoush, taboon bread, tomato, and cucumber. Toppings include tahini,
             hummus, pickled turnips, and
-            amba.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Shawarmafood.jpg/800px-Shawarmafood.jpg\",\"ingredients\":[\"Shawarma
+            amba.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Shawarma_%282223426004%29.jpg/1024px-Shawarma_%282223426004%29.jpg\",\"ingredients\":[\"Shawarma
             meat (lamb, chicken, turkey, beef) or shawarma falafel\",\"Pita or wrap
             bread\",\"Chopped or shredded vegetables\",\"Pickles\",\"Assorted condiments\"]}
         </item>
