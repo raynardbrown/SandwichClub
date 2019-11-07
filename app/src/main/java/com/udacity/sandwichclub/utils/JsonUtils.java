@@ -65,7 +65,8 @@ public class JsonUtils {
      * @return the JSON array specified by the JSON array name as a List.
      * @throws JSONException if there is a parse error.
      */
-    private static List<String> fromJsonArrayToList(JSONObject jsonObject, String jsonArrayName) throws JSONException
+    private static List<String> fromJsonArrayToList(JSONObject jsonObject,
+    		                                        String jsonArrayName) throws JSONException
     {
         List<String> list = new ArrayList<String>();
         JSONArray jsonArray = jsonObject.getJSONArray(jsonArrayName);
